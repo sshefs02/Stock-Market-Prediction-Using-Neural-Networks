@@ -6,4 +6,4 @@ Both these neural network structures are allowed to train in order to approximat
 The parameter update equation was derived using back propagation algorithm based on gradient descent principle.
 The simulation results obtained reveals that RBFN based identification model have performed better than that of MLFFNN based identification model. 
 
-Link of the paper for reference - https://www.bvicam.ac.in/news/INDIACom%202017%20Proceedings/Main/papers/1476.pdf
+Link of the paper for reference - https://link.springer.com/article/10.1007%2Fs41870-019-00382-y
